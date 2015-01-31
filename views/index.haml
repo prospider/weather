@@ -1,0 +1,14 @@
+.col-xs-12#content
+	%center
+		%h2.big Thunder Bay
+		%h1.big= weather("currently", "temperature").to_int
+		%h2 For the next few days
+	.col-sm-4
+		%center
+			%h3= weather("daily", "data", 0, "temperatureMax").to_int
+	.col-sm-4
+		%center
+			%h3= weather("daily", "data", 1, "temperatureMax").to_int
+	.col-sm-4
+		%center
+			%h3= weather("daily", "data", 2, "temperatureMax").to_int

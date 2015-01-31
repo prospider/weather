@@ -1,0 +1,24 @@
+# Logfile created on 2015-01-31 16:42:17 -0500 by logger.rb/44203
+I, [2015-01-31T16:42:43.818093 #29068]  INFO -- : Cache data out of date. Retrieving fresh information.
+I, [2015-01-31T16:42:44.338052 #29068]  INFO -- : Weather information retrieved from ForecastIO server.
+I, [2015-01-31T16:42:44.338319 #29068]  INFO -- : Cache written with new data.
+W, [2015-01-31T16:54:26.777491 #30457]  WARN -- : Cache doesn't exist. Writing new cache with current data.
+I, [2015-01-31T16:54:27.204232 #30457]  INFO -- : Cache written with new data.
+I, [2015-01-31T16:55:37.803908 #30623]  INFO -- : Cache data out of date. Retrieving fresh information.
+I, [2015-01-31T16:55:38.235356 #30623]  INFO -- : Cache written with new data.
+I, [2015-01-31T16:56:00.470405 #30623]  INFO -- : Cache data out of date. Retrieving fresh information.
+I, [2015-01-31T16:56:00.910966 #30623]  INFO -- : Cache written with new data.
+I, [2015-01-31T16:56:46.550896 #30770]  INFO -- : Cache data out of date. Retrieving fresh information.
+I, [2015-01-31T16:56:46.984976 #30770]  INFO -- : Cache written with new data.
+I, [2015-01-31T16:56:52.994244 #30770]  INFO -- : Cache data out of date. Retrieving fresh information.
+I, [2015-01-31T16:56:53.418258 #30770]  INFO -- : Cache written with new data.
+I, [2015-01-31T16:56:55.027243 #30770]  INFO -- : Cache data out of date. Retrieving fresh information.
+I, [2015-01-31T16:56:55.535642 #30770]  INFO -- : Cache written with new data.
+I, [2015-01-31T16:56:57.639063 #30770]  INFO -- : Cache data out of date. Retrieving fresh information.
+I, [2015-01-31T16:56:58.077072 #30770]  INFO -- : Cache written with new data.
+I, [2015-01-31T16:59:07.003068 #30858]  INFO -- : Cache data out of date. Retrieving fresh information.
+I, [2015-01-31T16:59:07.504170 #30858]  INFO -- : Cache written with new data.
+I, [2015-01-31T17:05:11.368690 #31801]  INFO -- : Cache data out of date. Retrieving fresh information.
+I, [2015-01-31T17:05:11.861285 #31801]  INFO -- : Cache written with new data.
+I, [2015-01-31T17:09:19.931506 #32323]  INFO -- : Cache data out of date. Retrieving fresh information.
+I, [2015-01-31T17:09:20.374544 #32323]  INFO -- : Cache written with new data.
